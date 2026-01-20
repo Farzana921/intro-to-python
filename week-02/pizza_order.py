@@ -15,8 +15,7 @@ if pepperoni == "Y":
         bill += 1
     else:
         bill += 2
-
-              # Ask for extra cheese
+# Ask for extra cheese
 extra_cheese = input("Do you want extra cheese? Y or N: ")
 
 if extra_cheese == "Y":
