@@ -23,7 +23,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 ''')
 print ("Welcome to the treasure island !")
 print ("your mission is to find the treasure ..!")
-
+# The input is converted to lowercase to avoid case sensitivity issues
 choice1 = input("you are at a crossrod. Type 'left' or 'right':"). lower()
 
 if choice1 == "left":
@@ -33,7 +33,7 @@ if choice1 == "left":
         if choice3 == "yellow":
             print ("you found the treasure room !😁")
             choice4 = input ("You see 3 chests: A, B, and C. Which one do you open .?").upper()
-
+             # Check which chest the player opens
             if choice4 =="A":
                 print (" CHEST A IS FULL OF GOLD ! YOU WIN ! 🎉")
             elif choice4 == "B":
@@ -49,6 +49,7 @@ if choice1 == "left":
             print ("EATEN BY BEASTS. GAME OVER. ")
         else:
             print ("INVALID CHOICE. GAEME OVER. ")
+     # If the player swims instead of waiting
     else:
         print("ATTACKED BY TROUT. GAME OVER. ")
 
