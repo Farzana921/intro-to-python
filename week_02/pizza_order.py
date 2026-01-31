@@ -9,7 +9,7 @@ elif size == "M":
     bill = 20
 elif size == "L":
     bill = 25
-pepperoni = input("Do you want pepperoni on your pizza? Y or N: ") # Ask for pepperoni
+pepperoni = input("Do you want pepperoni on your pizza? Y or N: ")
 if pepperoni == "Y":
     if size == "S":
         bill += 1
