@@ -34,7 +34,7 @@ while True:
     user_input = input("What do you choose? Type 0 for Rock, 1 for Paper, or 2 for Scissors (q to quit): ")
 
     if user_input.lower() == "q":
-        print("Bye! 👋")
+        print("Bye!")
         break
 
     if not user_input.isdigit():
