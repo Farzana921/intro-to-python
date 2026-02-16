@@ -34,9 +34,17 @@ while not at_goal():
         move()
     else:
         jump()
-📷 Screenshots
 
-(Add screenshots of your robot jumping and the green success message here)
+        
+## 📸 Screenshots
+
+### Before Reaching Goal
+![Hurdles World](01.png)
+
+### Final Success Message
+![Success Message](02.png)
+
+
 
 🎯 Final Result
 
