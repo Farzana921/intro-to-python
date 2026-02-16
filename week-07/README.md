@@ -37,10 +37,10 @@ while not at_goal():
 
 ## 📸 Screenshots
 
-### 🏃 Before Reaching Goal
+### Before Reaching Goal
 ![Hurdles World](01.png)
 
-### 🏁 Final Success Message
+### Final Success Message
 ![Success Message](02.png)
 
 
