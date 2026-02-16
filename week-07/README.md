@@ -35,6 +35,9 @@ while not at_goal():
     else:
         jump()
 
+```
+
+
 ## 📸 Screenshots
 
 ### Before Reaching Goal
