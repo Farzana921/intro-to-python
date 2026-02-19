@@ -1,18 +1,36 @@
-# Hurdles Loop Challenge 🏁
+# 🏁 Reeborg’s World – Hurdles 1–3 Challenge
 
 ## 📌 Project Description
-This project was completed using Reeborg's World.
-The goal was to make the robot jump over multiple hurdles and reach the flag.
 
-##  What I Learned
-- How to use functions
-- How to create custom functions (turn_right, jump)
-- How to use while loops
-- How to use if/else conditions
-- How to check front_is_clear()
-- How to think logically about movement and obstacles
+This project was completed using Reeborg’s World.
 
-##  My Solution Code
+The goal was to program the robot to:
+- Move forward
+- Detect walls
+- Jump over hurdles
+- Reach the final flag
+
+In Hurdles 1–3:
+- The number of hurdles changes
+- The position of hurdles changes
+- The hurdle height stays the same
+
+So the solution must be general and work in different worlds.
+
+---
+
+## 🧠 What I Learned
+
+- How to create custom functions
+- How to use `while` loops
+- How to use `if/else` conditions
+- How to check obstacles using `front_is_clear()`
+- How to think logically about movement
+- How to write flexible code instead of hard-coding steps
+
+---
+
+## 💻 My Solution Code
 
 ```python
 def turn_right():
@@ -41,12 +59,19 @@ while not at_goal():
 ## 📸 Screenshots
 
 ### Before Reaching Goal
-![Hurdles World](01.png)
+![Before Goal](week-07/01.png)
 
 ### Final Success Message
-![Success Message](02.png)
+![Success Message](week-07/02.png)
 
+### Hurdle 3
+![Hurdle 3](week-07/hurdle3.png)
 
- Final Result
+### Hurdle 4
+![Hurdle 4](week-07/hurdle4.png)
 
-The robot successfully jumps all hurdles and reaches the goal.
+### Before Goal
+![Before Goal](week-07/01.png)
+
+### Success Message
+![Success](week-07/02.png)
