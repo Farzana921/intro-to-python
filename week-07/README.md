@@ -66,13 +66,13 @@ while not at_goal():
 ![Success Message](02.png)
 
 ### Before Reaching Goal
-![Before Goal](01.png)
+![Before Goal](hurdle3.png)
 
 ### Final Success Message
-![Success Message](02.png)
+![Success Message](hurdle03.png)
 
 ### Hurdle 3
-![Hurdle 3](hurdle3.png)
+![Hurdle 3](hurdle4.png)
 
 ### Hurdle 4
-![Hurdle 4](hurdle4.png)
+![Hurdle 4](hurdle04.png)
