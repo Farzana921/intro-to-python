@@ -56,22 +56,17 @@ while not at_goal():
 ```
 
 
+
 ## 📸 Screenshots
 
 ### Before Reaching Goal
-![Before Goal](week-07/01.png)
+![Before Goal](01.png)
 
 ### Final Success Message
-![Success Message](week-07/02.png)
+![Success Message](02.png)
 
 ### Hurdle 3
-![Hurdle 3](week-07/hurdle3.png)
+![Hurdle 3](hurdle3.png)
 
 ### Hurdle 4
-![Hurdle 4](week-07/hurdle4.png)
-
-### Before Goal
-![Before Goal](week-07/01.png)
-
-### Success Message
-![Success](week-07/02.png)
+![Hurdle 4](hurdle4.png)
