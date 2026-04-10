@@ -14,7 +14,7 @@ while continue_bidding:
     should_continue = input("Are there any other bidders? Type 'yes' or 'no': ").lower()
 
     if should_continue == "yes":
-        print("\n" * 20)  # clears the screen (simple way)
+        print("\n" * 20)  
     else:
         continue_bidding = False
 
