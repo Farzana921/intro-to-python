@@ -1,4 +1,4 @@
-# Secret Auction (Python)
+# Secret Auction
 
 A simple command-line program for a secret auction.
 
